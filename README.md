@@ -1,9 +1,9 @@
-<h1>Knickers - 超级菜单 <img src="https://raw.githubusercontent.com/xkmp/Test/master/MiniatureS-Logo.png" height="64" width="64" align="left"></img></h1>
+<h1>Knickers - 多功能菜单 <img src="https://raw.githubusercontent.com/xkmp/Test/master/MiniatureS-Logo.png" height="64" width="64" align="left"></img></h1>
 <br>
 
 ## Knickers 是什么?
 
-一个[NukkitX](https://github.com/NukkitX/Nukkit)自定义GUi菜单插件
+一个[NukkitX](https://github.com/NukkitX/Nukkit)多功能自定义GUi菜单插件
 
 ## Knickers 有哪些功能？
 > - 拥有高度自由的可配置文件
