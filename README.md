@@ -26,7 +26,7 @@
 Knickers 该如何使用？
 
 | 命令 | 描述 | 用法 | 权限 | 适用对象 |
-| ---- | :--: | :--: | :--: | :--: | :--: |
+| ---- | :--: | :--: | :--: | :--: |
 | /mis admin| 添加或删除管理员权限 | /admin help | Knickers.Command.main | 服务器管理员及控制台 |
 | /mis show | 打开一个界面[文件名支持只写部分] | /mis show <文件名> | Knickers.Command.main | 所有玩家 |
 | /mis help	 | 打开命令帮助 | /mis help | Knickers.Command.main | 所有玩家 |
